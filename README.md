@@ -174,14 +174,13 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ### Play
-![Screenshot_20260209_153933_AudioPlayerApp](https://github.com/user-attachments/assets/d324980a-d882-4a55-ac79-9e7daeee5987)
+<img width="2878" height="1786" alt="image" src="https://github.com/user-attachments/assets/d34b9e5f-b059-4220-bd67-22b8a19f67e9" />
+
 ## Pause
-![Screenshot_20260209_153938_AudioPlayerApp](https://github.com/user-attachments/assets/4cb0c01c-e643-4330-af9e-07c4342cb36e)
+<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/a7a05e84-5565-409f-94da-1a2eb34e43d1" />
+
 ## Stop
-![Screenshot_20260209_153942_AudioPlayerApp](https://github.com/user-attachments/assets/1276a3e6-72b1-4389-a8d8-9771e36c8fa7)
-
-
-
+<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/780c9885-8bc9-4b2c-9c05-7d131c3775be" />
 
 
 ## RESULT
